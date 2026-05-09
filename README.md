@@ -9,17 +9,17 @@ Welcome to my technical portfolio. This repository serves as a centralized hub f
 ### 1. Integrated Security Operation Platform With Digital Twin Simulation
 * **Overview:** Implementation of an integrated EDR/SIEM platform using Wazuh for real-time threat monitoring and automated incident response.
 * **Key Tasks:** Built a virtualized lab, developed custom detection rules for EternalBlue and Reverse Shells, and integrated VirusTotal API.
-* **Documentation:** [View Full Report (PDF)](./Integrated_Security_Operatiion_Platform_With_Digital_Twin_Simulation.pdf)
+* **Documentation:** [View Full Report (PDF)](/Integrated_Security_Operatiion_Platform_With_Digital_Twin_Simulation.pdf)
 
 ### 2. Secured CAN Network (Network Engineering)
 * **Overview:** Design and implementation of a secure hierarchical enterprise network based on Cisco best practices.
 * **Key Tasks:** VLAN segmentation, OSPF dynamic routing, HSRP redundancy, and Site-to-Site VPN deployment.
-* **Documentation:** [View Full Report (PDF)](./Secured_Can_Network.pdf)
+* **Documentation:** [View Full Report (PDF)](/Secured_Can_Network.pdf)
 
 ### 3. Design of IDS for Detecting SQL Injection in a SIEM System
 * **Overview:** A layered security architecture using Suricata (NIDS) and Wazuh (SIEM) to detect and visualize various SQL injection attack patterns.
 * **Key Tasks:** Custom Suricata rules for SQLi, log correlation in Wazuh, and testing via DVWA environment.
-* **Documentation:** [View Full Report (PDF)](./Design_of_IDS_for_detecting_SQL_injection_in_a_SIEM_system.pdf)
+* **Documentation:** [View Full Report (PDF)](/Design_of_IDS_for_detecting_SQL_injection_in_a_SIEM_system.pdf)
 
 ---
 
