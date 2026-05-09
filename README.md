@@ -1,5 +1,4 @@
 # Cybersecurity-Network-Engineering-Projects
-# Portfolio: Cybersecurity & Network Engineering Projects
 
 Welcome to my technical portfolio. This repository serves as a centralized hub for the technical reports and documentation of my key projects in network security, threat detection, and monitoring.
 
